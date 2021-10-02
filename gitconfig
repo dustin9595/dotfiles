@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dustin.dillenburg@gmail.com
+	name = Dustin Dillenburg
